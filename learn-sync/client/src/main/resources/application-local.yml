@@ -1,0 +1,12 @@
+server:
+  port: 9002
+
+sync:
+  websocket:
+    url: ws://localhost:9001/websocket
+
+logging:
+  level:
+    root: info
+
+  path: "./logs/syn-client"

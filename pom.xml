@@ -10,6 +10,7 @@
     <version>1.0.0</version>
     <modules>
         <module>basic-java</module>
+        <module>learn-sync</module>
     </modules>
 
     <parent>
